@@ -1,4 +1,4 @@
-# Installing, Running, and Report
+# Data Engineering Case Study with SQL Optimization and Python Data Integration - Installing, Running, and Report
 
 ## Installing Instructions
 
